@@ -42,21 +42,18 @@ Update the data source connections in Power Query Editor to match your environme
 
 
 📸 Screenshots
-
-<img width="1316" height="680" alt="image" src="https://github.com/user-attachments/assets/28ae11c9-8e9d-4d55-b397-d228a4896582" />
-
 screenshots/
-├── overview.png
-├── coin_detail.png
-└── market_trends.png
+├── CC_Page1.png
+├── CC_Page2.png
+└── CC_Page3.png
+└── CC_Page4.png
 
 🛠️ Built With
 
 Power BI Desktop — Report authoring
 DAX — Calculated measures and KPIs
-Power Query (M) — Data transformation and shaping
 PBIP Format — Git-friendly project structure
 
 
 Project link-:
-
+https://github.com/Dxplorer/CryptoCurrency-PowerBI
