@@ -1,4 +1,4 @@
-Overview-
+🖼️ Overview
 The Crypto Dashboard provides a comprehensive view of cryptocurrency performance metrics, enabling users to monitor price trends, market capitalization, volume, and portfolio performance through interactive visuals and filters.
 
 🏆 Market Cap Rankings — Compare top coins by market capitalization
